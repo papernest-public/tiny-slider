@@ -3176,3 +3176,4 @@ var tns = function(options) {
 
 return tns;
 })();
+exports.tns = tns;

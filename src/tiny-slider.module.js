@@ -2721,3 +2721,4 @@ export var tns = function(options) {
     }
   };
 };
+exports.tns = tns;
