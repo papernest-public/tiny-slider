@@ -1,5 +1,5 @@
 {
-  "name": "tiny-slider",
+  "name": "ppn-tiny-slider",
   "version": "2.9.1",
   "description": "Vanilla javascript slider for all purposes, inspired by Owl Carousel.",
   "main": "dist/tiny-slider.js",
@@ -21,19 +21,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ganlanyuan/tiny-slider.git"
+    "url": "git+https://github.com/papernest-public/tiny-slider.git"
   },
   "files": [
     "dist",
     "src"
   ],
   "keywords": [],
-  "author": "ganlanyuan <ganlanyuan@gmail.com>",
+  "author": "Raphaël Hdayach <raphaelhdayach@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ganlanyuan/tiny-slider/issues"
+    "url": "https://github.com/papernest-public/tiny-slider/issues"
   },
-  "homepage": "https://github.com/ganlanyuan/tiny-slider#readme",
+  "homepage": "https://github.com/papernest-public/tiny-slider#readme",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.3",
