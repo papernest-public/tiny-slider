@@ -144,6 +144,11 @@ export interface TinySliderSettings extends CommonOptions {
      */
     navAsThumbnails?: boolean;
     /**
+     * Position of navigation elements (dots). At the top or bottom
+     * @defaultValue "top"
+     */
+    navPosition?: string;
+    /**
      * Direction of slide movement (ascending/descending the slide index).
      * @defaultValue "forward"
      */
@@ -234,6 +239,7 @@ export interface TinySliderInfo {
     navContainer?: HTMLElement;
     navCurrentIndex?: number;
     navCurrentIndexCached?: number;
+    navPosition?: string;
     navItems?: HTMLCollection;
     nextButton?: HTMLElement;
     prevButton?: HTMLElement;
